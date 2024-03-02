@@ -22,4 +22,4 @@ Beyond Python, I've honed my skills in data analysis using Excel. From crunching
 
 I'm always on the lookout for exciting opportunities that allow me to apply technology to real-world challenges. Let's connect and explore the endless possibilities at the intersection of technology and creativity!
 
-Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/omarubaid
+Connect with me on LinkedIn: https://www.linkedin.com/in/omar-ubaid
