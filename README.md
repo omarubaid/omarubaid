@@ -1,28 +1,17 @@
-# Hi, I'm Omar Ubaid! 👋
 
-A tech enthusiast with a multifaceted passion that has evolved from attending master's course Statistical and Machine Learning to deep learning in computer vision and hands-on in Data cleaning, analyzing and visualizing, to currently exploring the realms of Generative AI.
+## Hi, I'm Omar Ubaid! 👋 
+A tech enthusiast with a passion that's evolved from one course Statistical and Machine Learning to diving deep into computer vision, data science, and beyond.
 
+🔍 **Computer Vision**
+Explored Convolutional Neural Networks; architecting, training, and evaluating models on mnist and cifar-10 datasets.
 
-## 🔍 Computer Vision
+📊 **Data Analysis and Visualization**
+Proficient in Python, Excel, and certified in data analysis. I bring data to life using pandas, matplotlib, numpy, and seaborn.
 
-Learning about Machine Learning and the fundamentals of Deep Learning during lecture period, I then delved into the intricacies of Conolutional Neural Networks for solving computer vision tasks. Architecting, training and evaluating CNN models on mnist and cifar-10 datasets is how I had hands-on examples done on.
+🧠 **Exploring Generative AI**
+Currently exploring the creative potential of Generative AI, unleashing algorithms to create art.
 
+🚀 **Seeking Exciting Opportunities**
+Always on the lookout for opportunities to apply technology to real-world challenges. Let's connect and explore possibilities at the intersection of technology and creativity!
 
-## 📊 Data Analysis and Visualization
-
-In parallel, my expertise extends to the realm of data analysis and visualization using Python and Microsoft Excel. I have done online certifications for that attached to my Linkedin. I am proficient using pandas, matplotlib, numpy and seaborn, cleaning data and bringing it to life.
-
-
-## 🧠 Exploring Generative AI
-
-Driven by a fascination for the creative capabilities of AI, I am currently immersed in the exploration of Generative AI. Unleashing the power of algorithms to create art, I'm passionate about harnessing technology's creative potential.
-
-
-## 🚀 Seeking Exciting Opportunities
-
-I'm always on the lookout for exciting opportunities that allow me to apply technology to real-world challenges. Let's connect and explore the endless possibilities at the intersection of technology and creativity!
-
-
-----
-Connect with me on LinkedIn: https://www.linkedin.com/in/omar-ubaid
-----
+Connect with me on [LinkedIn](https://www.linkedin.com/in/omar-ubaid) 🌐.
