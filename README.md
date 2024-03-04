@@ -11,7 +11,10 @@ Proficient in Python, Excel, and certified in data analysis. I bring data to lif
 🧠 **Exploring Generative AI:**
 Currently exploring the creative potential of Generative AI, unleashing algorithms to create art.
 
+-----
 🚀 **Seeking Exciting Opportunities:**
 Always on the lookout for opportunities to apply technology to real-world challenges. Let's connect and explore possibilities at the intersection of technology and creativity!
+-----
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/omar-ubaid) 🌐.
+-----
