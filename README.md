@@ -1,6 +1,6 @@
 # Hi, I'm Omar Ubaid! 👋
 
-I'm a tech enthusiast with a multifaceted passion that has evolved from attending master's course Statistical and Machine Learning to deep learning in computer vision and hands-on in Data cleaning, analyzing and visualizing, to currently exploring the realms of Generative AI (GenAI).
+I'm a tech enthusiast with a multifaceted passion that has evolved from attending master's course Statistical and Machine Learning to deep learning in computer vision and hands-on in Data cleaning, analyzing and visualizing, to currently exploring the realms of Generative AI.
 
 
 ## 🔍 Computer Vision
@@ -10,7 +10,7 @@ Learning about Machine Learning and the fundamentals of Deep Learning during lec
 
 ## 📊 Data Visualization with Python
 
-In parallel, my expertise extends to the realm of data visualization using Python. I believe in the storytelling power of data and leverage Python's robust libraries to craft compelling narratives through visualizations. From matplotlib to seaborn, I weave stories that bring data to life.
+In parallel, my expertise extends to the realm of data analysis and visualization using Python and Microsoft Excel. I have done online certifications for that attached to my Linkedin. I am proficient using pandas, matplotlib, numpy and seaborn, bringing data to life.
 
 
 ## 🧠 Exploring Generative AI (GenAI)
