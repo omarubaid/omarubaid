@@ -1,22 +1,27 @@
 # Hi, I'm Omar Ubaid! 👋
 
-I'm a tech enthusiast with a multifaceted passion that has evolved from deep learning in computer vision to currently exploring the realms of Generative AI (GenAI). My journey in technology is fueled by a relentless curiosity to unravel the possibilities of machine intelligence.
+I'm a tech enthusiast with a multifaceted passion that has evolved from attending master's course Statistical and Machine Learning to deep learning in computer vision and hands-on in Data cleaning, analyzing and visualizing, to currently exploring the realms of Generative AI (GenAI).
 
-## 🔍 Deep Learning & Computer Vision
 
-Taking a master's course in 'Statistical and Machine Learning,' my journey started in the captivating world of machine and deep learning. I then delved into the intricacies of computer vision. From unraveling the secrets of convolutional neural networks to architecting models that recognize patterns and objects, I've been captivated by the transformative potential of visual intelligence.
+## 🔍 Computer Vision
 
-## 🧠 Exploring Generative AI (GenAI)
+Learning about Machine Learning and the fundamentals of Deep Learning during lecture period, I then delved into the intricacies of Conolutional Neural Networks for solving computer vision tasks. convolutional neural networks to architecting models that recognize patterns and objects, I've been captivated by the transformative potential of visual intelligence.
 
-Driven by a fascination for the creative capabilities of AI, I am currently immersed in the exploration of Generative AI. Unleashing the power of algorithms to create art, music, and beyond, I'm passionate about harnessing technology's creative potential.
 
 ## 📊 Data Visualization with Python
 
 In parallel, my expertise extends to the realm of data visualization using Python. I believe in the storytelling power of data and leverage Python's robust libraries to craft compelling narratives through visualizations. From matplotlib to seaborn, I weave stories that bring data to life.
 
+
+## 🧠 Exploring Generative AI (GenAI)
+
+Driven by a fascination for the creative capabilities of AI, I am currently immersed in the exploration of Generative AI. Unleashing the power of algorithms to create art, music, and beyond, I'm passionate about harnessing technology's creative potential.
+
+
 ## 📈 Excel Data Analysis
 
 Beyond Python, I've honed my skills in data analysis using Excel. From crunching numbers to uncovering insights, Excel has been a versatile companion in my analytical journey. It's amazing how a simple spreadsheet can reveal profound stories hidden in data.
+
 
 ## 🚀 Seeking Exciting Opportunities
 
