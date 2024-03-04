@@ -5,7 +5,7 @@ I'm a tech enthusiast with a multifaceted passion that has evolved from attendin
 
 ## 🔍 Computer Vision
 
-Learning about Machine Learning and the fundamentals of Deep Learning during lecture period, I then delved into the intricacies of Conolutional Neural Networks for solving computer vision tasks. convolutional neural networks to architecting models that recognize patterns and objects, I've been captivated by the transformative potential of visual intelligence.
+Learning about Machine Learning and the fundamentals of Deep Learning during lecture period, I then delved into the intricacies of Conolutional Neural Networks for solving computer vision tasks. Architecting, training and evaluating CNN models on mnist and cifar-10 datasets is how I had hands-on examples done on.
 
 
 ## 📊 Data Visualization with Python
